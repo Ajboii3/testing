@@ -1,0 +1,6 @@
+{
+  "name": "Donation Alert",
+  "description": "Monitors payment notifications from UPI apps, triggering StreamElements donation alerts and Discord webhooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
